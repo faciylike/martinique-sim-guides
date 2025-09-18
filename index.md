@@ -47,3 +47,10 @@ layout: default
 *   **信号玄学**：南部Les Salines沙滩信号可能飘忽，北部雨林腹地更别指望。下载离线地图？那是探险家的保命符。
 
 　　**最后唠叨一句**：手机卡包装上的客服电话和PUK码，拍照存云盘！想象在海滩丢了手机又忘了PUK码的绝望…那真是
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Martinique eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/martinique-data-plans)
